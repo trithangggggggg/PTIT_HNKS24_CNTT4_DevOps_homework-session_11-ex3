@@ -27,3 +27,5 @@
 - Luồng CI phản hồi kết quả nhanh hơn, tiết kiệm runner minutes và tăng năng suất phát triển phần mềm.
 
 <!-- test cache trigger -->
+
+<!-- trigger push 2 to test cache restoration -->
